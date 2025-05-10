@@ -1,1 +1,1 @@
-This project simulates a system and analyzes its chaotic behavior using Lyapunov exponents and proximity mapping techniques.
+This project simulates a 3-body system and analyzes its chaotic behavior using Lyapunov exponents and proximity mapping techniques.
